@@ -1,5 +1,5 @@
 function Test()
 {
-  document.Form1.InputText.value = "798";
+  document.Form1..getElementsByName("InputText").value = "798";
   
 }
