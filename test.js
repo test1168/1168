@@ -1,6 +1,6 @@
 function Test()
 {
-  document.getElementsByName("InputText").value = "666";
+  document.getElementsByName("InputName").value = "666";
   
   
 }
